@@ -1,0 +1,14 @@
+setup.py
+eventscraper_bot.egg-info/PKG-INFO
+eventscraper_bot.egg-info/SOURCES.txt
+eventscraper_bot.egg-info/dependency_links.txt
+eventscraper_bot.egg-info/entry_points.txt
+eventscraper_bot.egg-info/top_level.txt
+secondscrapy/__init__.py
+secondscrapy/items.py
+secondscrapy/middlewares.py
+secondscrapy/pipelines.py
+secondscrapy/settings.py
+secondscrapy/test.py
+secondscrapy/spiders/__init__.py
+secondscrapy/spiders/residentadvisor.py
